@@ -1,9 +1,9 @@
 /* SETTING NOMOR OWNER */
-global.namaBot = "Tirex - ᴘᴇᴅɪᴀ" // Change Your Bot Name
-global.namaOwner = "AllxdDev" // Change your Owner Name
-global.nomorOwner = ["6285664731916"] // Change To Your Owner Number
-global.creator = ["6285664731916"]
-global.save = "number S" //change to your save name
+global.namaBot = "HansmodeboT" // Change Your Bot Name
+global.namaOwner = "Hans4ziuU" // Change your Owner Name
+global.nomorOwner = ["6285729415703"] // Change To Your Owner Number
+global.creator = ["6285729415703"]
+global.save = "BuyerZiu" //change to your save name
 /* SETTING MODULE */
 global.util = require("util")
 global.CFonts = require("cfonts")
